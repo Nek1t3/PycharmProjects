@@ -1,0 +1,1 @@
+print("Riabchenko Nikita, IPZ-5")
